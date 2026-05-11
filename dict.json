@@ -56,7 +56,7 @@
         "kiejtes": "do-szan",
         "movements": 24,
         "symbolism": "Ahn Chang-Ho hazafi (1876-1938)",
-        "description": "Ahn Chang-Ho (Do-San) hazafi álneve. A 24 mozdulat az egész életét szimbolizálja, amit Koreai függetlenségért és oktatásért áldozott."
+        "description": "Ahn Chang-Ho (Do-San) hazafi álneve. A 24 mozdulat az egész életét szimbolizálja, amit a koreai függetlenségért és az oktatásért áldozott."
       },
       {
         "korean": "Won-Hyo",
@@ -65,7 +65,7 @@
         "kiejtes": "von-hjo",
         "movements": 28,
         "symbolism": "Won-Hyo szerzetes (686)",
-        "description": "A híres buddhista szerzetesről, aki Buddhizmust hozott a Silla királyságba. Egyszerű, de elegáns technikák jellemzik."
+        "description": "A híres buddhista szerzetesről, aki a buddhizmust elhozta a Silla királyságba. Egyszerű, de elegáns technikák jellemzik."
       },
       {
         "korean": "Yul-Gok",
@@ -74,7 +74,7 @@
         "kiejtes": "jul-gok",
         "movements": 38,
         "symbolism": "Yi I (Yul-Gok) filozófus",
-        "description": "A nagy konfuciánus tudósról kapta nevét. A 38 mozdulat születési helye szélességi fokára utal. Nagyon dinamikus forma."
+        "description": "A nagy konfuciánus tudósról kapta nevét. A 38 mozdulat a születési helyének szélességi fokára utal. Nagyon dinamikus forma."
       },
       {
         "korean": "Joong-Gun",
@@ -83,7 +83,7 @@
         "kiejtes": "dzsung-gun",
         "movements": 32,
         "symbolism": "An Jung-Geun hazafi",
-        "description": "An Jung-Geunről, aki meggyilkolta Ito Hirobumit. A 32 mozdulat az ő börtönben töltött éveire utal."
+        "description": "An Jung-Geunről, aki meggyilkolta Ito Hirobumit. A 32 mozdulat azt az életkort jelképezi, amikor kivégezték (32 éves volt)."
       },
       {
         "korean": "Toi-Gye",
@@ -92,7 +92,7 @@
         "kiejtes": "to-i-gje",
         "movements": 37,
         "symbolism": "Yi Hwang (Toi-Gye) filozófus",
-        "description": "A nagy konfuciánus filozófusról. A 37 mozdulat születési helye szélességi fokára utal."
+        "description": "A nagy konfuciánus filozófusról. A 37 mozdulat a születési helyének szélességi fokára utal."
       },
       {
         "korean": "Hwa-Rang",
@@ -110,7 +110,7 @@
         "kiejtes": "cung-mu",
         "movements": 30,
         "symbolism": "Yi Sun-Sin admirális",
-        "description": "A híres koreai admirálisról, aki legyőzte a japán flottát. A forma sosem fejeződik be bal lábbal, mert ő fiatalon halt meg."
+        "description": "A híres koreai admirálisról, aki legyőzte a japán flottát a 16. században. A forma bal kézzel végrehajtott támadással zárul, ami azt jelképezi, hogy az admirális nem érhette meg a végső győzelmet, mert a csatában elesett."
       },
       {
         "korean": "Kwang-Gae",
@@ -173,7 +173,7 @@
         "kiejtes": "szam-il",
         "movements": 33,
         "symbolism": "1919. március 1-i felkelés",
-        "description": "A koreai függetlenségi mozgalom kezdetét jelképezi. A 33 mozdulat a 33 hazafira utal."
+        "description": "A koreai függetlenségi mozgalom kezdetét jelképezi. A 33 mozdulat a 33 hazafira utal, akik aláírták a függetlenségi nyilatkozatot."
       },
       {
         "korean": "Yoo-Sin",
@@ -182,7 +182,7 @@
         "kiejtes": "ju-sin",
         "movements": 68,
         "symbolism": "Kim Yoo-Sin tábornok",
-        "description": "A Silla királyság nagy tábornokáról."
+        "description": "A Silla királyság nagy tábornokáról. A 68 mozdulat Korea egyesítésének évére (668) utal."
       },
       {
         "korean": "Choi-Yong",
@@ -191,16 +191,16 @@
         "kiejtes": "csoi-jong",
         "movements": 46,
         "symbolism": "Choi Yong tábornok",
-        "description": "A hős tábornokról, akit árulással vádoltak."
+        "description": "A hős Goryeo tábornokról, akit árulással vádoltak és kivégeztek."
       },
       {
-        "korean": "Yong-Gae",
+        "korean": "Yon-Gae",
         "hangul": "연개",
-        "hungarian": "Yong-Gae",
-        "kiejtes": "jong-ge",
+        "hungarian": "Yon-Gae",
+        "kiejtes": "jon-ge",
         "movements": 49,
-        "symbolism": "Eulji Mundeok tábornok",
-        "description": "A híres Goguryeo tábornokról, aki legyőzte a kínaiakat."
+        "symbolism": "Yon Gaesomun tábornok",
+        "description": "A Goguryeo királyság hatalmas tábornokáról, Yon Gaesomunról, aki sikeresen verte vissza a Tang kínai inváziót."
       },
       {
         "korean": "Ul-Ji",
@@ -209,7 +209,7 @@
         "kiejtes": "ul-dzsi",
         "movements": 42,
         "symbolism": "Eulji Mundeok tábornok",
-        "description": "Eulji Mundeok másik neve."
+        "description": "A kiváló Goguryeo tábornokról, Eulji Mundeokról, aki a Salsu folyónál megsemmisítő vereséget mért a kínai seregre."
       },
       {
         "korean": "Moon-Moo",
@@ -218,7 +218,7 @@
         "kiejtes": "mun-mu",
         "movements": 61,
         "symbolism": "Moon-Moo király",
-        "description": "A Silla királyról, aki egyesítette Koreát."
+        "description": "A Silla királyról, aki egyesítette Koreát. A 61 mozdulat trónra lépésének évére (661) utal."
       },
       {
         "korean": "So-San",
@@ -226,8 +226,8 @@
         "hungarian": "So-San",
         "kiejtes": "szo-szan",
         "movements": 72,
-        "symbolism": "Szökevény szerzetes (Szö San)",
-        "description": "A szerzetesről, aki gerillaharcosokat szervezett a japán invázió ellen."
+        "symbolism": "Szo Szan (Seosan) buddhista szerzetes, hazafi",
+        "description": "A szerzetesről, aki önkéntes szerzetesi sereget szervezett a japán invázió ellen, és jelentős győzelmeket aratott."
       },
       {
         "korean": "Se-Jong",
@@ -245,7 +245,7 @@
         "kiejtes": "tong-il",
         "movements": 56,
         "symbolism": "Koreai újraegyesítés",
-        "description": "A Koreai-félsziget újraegyesítésének reményét jelképezi."
+        "description": "A Koreai-félsziget újraegyesítésének reményét jelképezi. Az 56 mozdulat a megosztottság éveire utal."
       }
     ]
   }
