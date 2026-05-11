@@ -1,5 +1,6 @@
 {
   "taekwondo_terminology": {
+     
     "numbers_1_to_10": [
       { "number": 1, "korean": "Hana", "hangul": "하나", "kiejtes": "ha-na", "hungarian": "Egy" },
       { "number": 2, "korean": "Dul", "hangul": "둘", "kiejtes": "dul", "hungarian": "Kettő" },
@@ -12,7 +13,91 @@
       { "number": 9, "korean": "Ahop", "hangul": "아홉", "kiejtes": "a-hop", "hungarian": "Kilenc" },
       { "number": 10, "korean": "Yeol", "hangul": "열", "kiejtes": "jol", "hungarian": "Tíz" }
     ],
-    "patterns": [
+    
+    "commands": [
+      { "korean": "Charyot", "hungarian": "Figyelem!" },
+      { "korean": "Kyong Ye", "hungarian": "Meghajlás / Tiszteletadás" },
+      { "korean": "Junbi", "hungarian": "Készülj!" },
+      { "korean": "Sijak", "hungarian": "Kezdd!" },
+      { "korean": "Guman", "hungarian": "Állj! / Stop" },
+      { "korean": "Baro", "hungarian": "Vissza! / Alapállásba" },
+      { "korean": "Dwiro Dora", "hungarian": "Fordulj hátra!" },
+      { "korean": "Swiyo", "hungarian": "Pihenj!" },
+      { "korean": "Kaesok", "hungarian": "Folytasd!" }
+    ],
+    "stances": [
+      { "korean": "Moa sogi", "hungarian": "Zárt állás" },
+      { "korean": "Charyot sogi", "hungarian": "Figyelő állás" },
+      { "korean": "Narani sogi / Junbi sogi", "hungarian": "Készenléti / párhuzamos állás" },
+      { "korean": "Gunnun sogi", "hungarian": "Lépő / támadó állás" },
+      { "korean": "Niunja sogi", "hungarian": "L-állás / küzdőállás" },
+      { "korean": "Annun sogi", "hungarian": "Lovaglóállás" },
+      { "korean": "Gojung sogi", "hungarian": "Hosszú L-állás" },
+      { "korean": "Kyocha sogi", "hungarian": "X-állás" },
+      { "korean": "Dwitbal sogi", "hungarian": "Macskaállás" },
+      { "korean": "Guburyo sogi", "hungarian": "Egylábas készenléti állás" }
+    ],
+    "directions_and_levels": [
+      { "korean": "Ap", "hungarian": "Előre / elülső" },
+      { "korean": "Dwit / Dwi", "hungarian": "Hátra / hátsó" },
+      { "korean": "Yop", "hungarian": "Oldal / oldalsó" },
+      { "korean": "Najunde", "hungarian": "Alsó" },
+      { "korean": "Kaunde", "hungarian": "Középső" },
+      { "korean": "Nopunde", "hungarian": "Felső / magas" },
+      { "korean": "Baro", "hungarian": "Azonos oldali" },
+      { "korean": "Pandae", "hungarian": "Ellentétes oldali" },
+      { "korean": "Dollyo", "hungarian": "Köríves" },
+      { "korean": "Twimyo", "hungarian": "Ugró" },
+      { "korean": "Neryo", "hungarian": "Lefelé" },
+      { "korean": "Anuro", "hungarian": "Kívülről befelé" },
+      { "korean": "Bakuro", "hungarian": "Befelülről kifelé" }
+    ],
+    "general_techniques": [
+      { "korean": "Makgi", "hungarian": "Hárítás / blokk" },
+      { "korean": "Chirugi / Jireugi", "hungarian": "Egyenes ütés / szúrás" },
+      { "korean": "Taerigi", "hungarian": "Csapás" },
+      { "korean": "Chagi", "hungarian": "Rúgás" },
+      { "korean": "Milgi", "hungarian": "Tolás" }
+    ],
+    "hand_techniques": [
+      { "korean": "Ap joomuk", "hungarian": "Elülső ököl" },
+      { "korean": "Yop joomuk", "hungarian": "Oldalsó / kalapácsököl" },
+      { "korean": "Sonkal", "hungarian": "Kézél" },
+      { "korean": "Sonbadak", "hungarian": "Tenyér" },
+      { "korean": "Palkup", "hungarian": "Könyök" },
+      { "korean": "Ap chirugi", "hungarian": "Egyenes ütés" },
+      { "korean": "Dollyo chirugi", "hungarian": "Köríves ütés" }
+    ],
+    "blocks": [
+      { "korean": "Najunde makgi", "hungarian": "Alsó hárítás" },
+      { "korean": "Kaunde makgi", "hungarian": "Középső hárítás" },
+      { "korean": "Nopunde makgi", "hungarian": "Felső hárítás" },
+      { "korean": "Chukyo makgi", "hungarian": "Felfelé hárítás" },
+      { "korean": "Anuro makgi", "hungarian": "Kívülről befelé hárítás" },
+      { "korean": "Bakuro makgi", "hungarian": "Befelülről kifelé hárítás" },
+      { "korean": "Neryo makgi", "hungarian": "Lefelé hárítás" }
+    ],
+    "kicks": [
+      { "korean": "Ap chagi", "hungarian": "Elülső / egyenes rúgás" },
+      { "korean": "Yop chagi", "hungarian": "Oldalrúgás" },
+      { "korean": "Dollyo chagi", "hungarian": "Köríves rúgás" },
+      { "korean": "Dwit chagi", "hungarian": "Hátsó rúgás" },
+      { "korean": "Neryo chagi", "hungarian": "Fejsze / leeresztő rúgás" },
+      { "korean": "Moorup chagi", "hungarian": "Térdrúgás" }
+    ],
+    "general_terms": [
+      { "korean": "Dojang", "hungarian": "Edzőterem" },
+      { "korean": "Dobok", "hungarian": "Edzőruha" },
+      { "korean": "Ti", "hungarian": "Öv" },
+      { "korean": "Sabomnim", "hungarian": "Mester" },
+      { "korean": "Gup", "hungarian": "Színöv fokozat" },
+      { "korean": "Dan", "hungarian": "Fekete öv fokozat" },
+      { "korean": "Tul", "hungarian": "Formagyakorlat" },
+      { "korean": "Kihap", "hungarian": "Harci kiáltás" },
+      { "korean": "Kyokpa", "hungarian": "Törés" },
+      { "korean": "Hosin sul", "hungarian": "Önvédelem" }
+    ],
+        "patterns": [
       {
         "korean": "Saju Jirugi",
         "hangul": "사주 지르기",
@@ -250,3 +335,5 @@
     ]
   }
 }
+
+
