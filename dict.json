@@ -1,0 +1,252 @@
+{
+  "taekwondo_terminology": {
+    "numbers_1_to_10": [
+      { "number": 1, "korean": "Hana", "hangul": "하나", "kiejtes": "ha-na", "hungarian": "Egy" },
+      { "number": 2, "korean": "Dul", "hangul": "둘", "kiejtes": "dul", "hungarian": "Kettő" },
+      { "number": 3, "korean": "Set", "hangul": "셋", "kiejtes": "szet", "hungarian": "Három" },
+      { "number": 4, "korean": "Net", "hangul": "넷", "kiejtes": "net", "hungarian": "Négy" },
+      { "number": 5, "korean": "Dasot", "hangul": "다섯", "kiejtes": "da-szot", "hungarian": "Öt" },
+      { "number": 6, "korean": "Yasot", "hangul": "여섯", "kiejtes": "ja-szot", "hungarian": "Hat" },
+      { "number": 7, "korean": "Ilgop", "hangul": "일곱", "kiejtes": "il-gop", "hungarian": "Hét" },
+      { "number": 8, "korean": "Yodol", "hangul": "여덟", "kiejtes": "jo-dol", "hungarian": "Nyolc" },
+      { "number": 9, "korean": "Ahop", "hangul": "아홉", "kiejtes": "a-hop", "hungarian": "Kilenc" },
+      { "number": 10, "korean": "Yeol", "hangul": "열", "kiejtes": "jol", "hungarian": "Tíz" }
+    ],
+    "patterns": [
+      {
+        "korean": "Saju Jirugi",
+        "hangul": "사주 지르기",
+        "hungarian": "Négy irányú ütés (alapgyakorlat)",
+        "kiejtes": "sza-dzsu csi-ru-gi",
+        "movements": 14,
+        "symbolism": "Alapgyakorlat kezdőknek",
+        "description": "Négy irányba végzett egyszerű ütések. A legelső gyakorlat, amit a fehér övesek tanulnak. Segít elsajátítani az alapvető fordulásokat, lépéseket és egyenes ütéseket."
+      },
+      {
+        "korean": "Saju Makgi",
+        "hangul": "사주 막기",
+        "hungarian": "Négy irányú hárítás (alapgyakorlat)",
+        "kiejtes": "sza-dzsu mak-gi",
+        "movements": 16,
+        "symbolism": "Alapgyakorlat kezdőknek",
+        "description": "Négy irányba végzett egyszerű hárítások. Fejleszti a blokkolási technikákat, az egyensúlyt és a koordinációt. Általában Saju Jirugi után tanulják."
+      },
+      {
+        "korean": "Chon-Ji",
+        "hangul": "천지",
+        "hungarian": "Chon-Ji – Ég és Föld",
+        "kiejtes": "cson-dzsi",
+        "movements": 19,
+        "symbolism": "Az ég és a föld, az univerzum teremtése",
+        "description": "A legelső hivatalos forma. Két hasonló részre oszlik (ég + föld). Alaptechnikák (alsó hárítás + egyenes ütés) gyakorlására szolgál."
+      },
+      {
+        "korean": "Dan-Gun",
+        "hangul": "단군",
+        "hungarian": "Dan-Gun",
+        "kiejtes": "dan-gun",
+        "movements": 21,
+        "symbolism": "Dangun, Korea legendás alapítója (i.e. 2333)",
+        "description": "Korea mitikus alapítójáról kapta nevét. Felfelé irányuló technikák dominálnak, a felemelkedést és a nemzet születését jelképezi."
+      },
+      {
+        "korean": "Do-San",
+        "hangul": "도산",
+        "hungarian": "Do-San",
+        "kiejtes": "do-szan",
+        "movements": 24,
+        "symbolism": "Ahn Chang-Ho hazafi (1876-1938)",
+        "description": "Ahn Chang-Ho (Do-San) hazafi álneve. A 24 mozdulat az egész életét szimbolizálja, amit Koreai függetlenségért és oktatásért áldozott."
+      },
+      {
+        "korean": "Won-Hyo",
+        "hangul": "원효",
+        "hungarian": "Won-Hyo",
+        "kiejtes": "von-hjo",
+        "movements": 28,
+        "symbolism": "Won-Hyo szerzetes (686)",
+        "description": "A híres buddhista szerzetesről, aki Buddhizmust hozott a Silla királyságba. Egyszerű, de elegáns technikák jellemzik."
+      },
+      {
+        "korean": "Yul-Gok",
+        "hangul": "율곡",
+        "hungarian": "Yul-Gok",
+        "kiejtes": "jul-gok",
+        "movements": 38,
+        "symbolism": "Yi I (Yul-Gok) filozófus",
+        "description": "A nagy konfuciánus tudósról kapta nevét. A 38 mozdulat születési helye szélességi fokára utal. Nagyon dinamikus forma."
+      },
+      {
+        "korean": "Joong-Gun",
+        "hangul": "중근",
+        "hungarian": "Joong-Gun",
+        "kiejtes": "dzsung-gun",
+        "movements": 32,
+        "symbolism": "An Jung-Geun hazafi",
+        "description": "An Jung-Geunről, aki meggyilkolta Ito Hirobumit. A 32 mozdulat az ő börtönben töltött éveire utal."
+      },
+      {
+        "korean": "Toi-Gye",
+        "hangul": "퇴계",
+        "hungarian": "Toi-Gye",
+        "kiejtes": "to-i-gje",
+        "movements": 37,
+        "symbolism": "Yi Hwang (Toi-Gye) filozófus",
+        "description": "A nagy konfuciánus filozófusról. A 37 mozdulat születési helye szélességi fokára utal."
+      },
+      {
+        "korean": "Hwa-Rang",
+        "hangul": "화랑",
+        "hungarian": "Hwa-Rang",
+        "kiejtes": "hva-rang",
+        "movements": 29,
+        "symbolism": "Hwa-Rang harcos rend (Silla)",
+        "description": "A Silla királyság legendás ifjú harcos rendjéről. Bátorságot, hűséget és önfeláldozást szimbolizál."
+      },
+      {
+        "korean": "Choong-Moo",
+        "hangul": "충무",
+        "hungarian": "Choong-Moo",
+        "kiejtes": "cung-mu",
+        "movements": 30,
+        "symbolism": "Yi Sun-Sin admirális",
+        "description": "A híres koreai admirálisról, aki legyőzte a japán flottát. A forma sosem fejeződik be bal lábbal, mert ő fiatalon halt meg."
+      },
+      {
+        "korean": "Kwang-Gae",
+        "hangul": "광개",
+        "hungarian": "Kwang-Gae",
+        "kiejtes": "kvang-ge",
+        "movements": 39,
+        "symbolism": "Kwang-Gae-To király",
+        "description": "A Goguryeo királyságot nagyra növelő királyról."
+      },
+      {
+        "korean": "Po-Eun",
+        "hangul": "포은",
+        "hungarian": "Po-Eun",
+        "kiejtes": "po-un",
+        "movements": 36,
+        "symbolism": "Chong Mong-Chu tudós",
+        "description": "A hűséges tudósról, aki inkább meghalt, mint hogy hűtlen legyen hazájához."
+      },
+      {
+        "korean": "Ge-Baek",
+        "hangul": "계백",
+        "hungarian": "Ge-Baek",
+        "kiejtes": "ge-bek",
+        "movements": 44,
+        "symbolism": "Ge-Baek tábornok",
+        "description": "A Baekje királyság hős tábornokáról, aki utolsó csatájában is hű maradt."
+      },
+      {
+        "korean": "Eui-Am",
+        "hangul": "의암",
+        "hungarian": "Eui-Am",
+        "kiejtes": "üi-am",
+        "movements": 45,
+        "symbolism": "Ahn Chang-Ho másik neve",
+        "description": "Ahn Chang-Ho másik álneve."
+      },
+      {
+        "korean": "Choong-Jang",
+        "hangul": "충장",
+        "hungarian": "Choong-Jang",
+        "kiejtes": "cung-dzsang",
+        "movements": 52,
+        "symbolism": "Kim Duk-Ryung tábornok",
+        "description": "A hős tábornokról, aki a japán invázió idején harcolt."
+      },
+      {
+        "korean": "Juche",
+        "hangul": "주체",
+        "hungarian": "Juche",
+        "kiejtes": "dzsu-cse",
+        "movements": 45,
+        "symbolism": "Önrendelkezés (filozófia)",
+        "description": "A koreai önállóság és függetlenség filozófiáját jelképezi."
+      },
+      {
+        "korean": "Sam-Il",
+        "hangul": "삼일",
+        "hungarian": "Sam-Il",
+        "kiejtes": "szam-il",
+        "movements": 33,
+        "symbolism": "1919. március 1-i felkelés",
+        "description": "A koreai függetlenségi mozgalom kezdetét jelképezi. A 33 mozdulat a 33 hazafira utal."
+      },
+      {
+        "korean": "Yoo-Sin",
+        "hangul": "유신",
+        "hungarian": "Yoo-Sin",
+        "kiejtes": "ju-sin",
+        "movements": 68,
+        "symbolism": "Kim Yoo-Sin tábornok",
+        "description": "A Silla királyság nagy tábornokáról."
+      },
+      {
+        "korean": "Choi-Yong",
+        "hangul": "최영",
+        "hungarian": "Choi-Yong",
+        "kiejtes": "csoi-jong",
+        "movements": 46,
+        "symbolism": "Choi Yong tábornok",
+        "description": "A hős tábornokról, akit árulással vádoltak."
+      },
+      {
+        "korean": "Yong-Gae",
+        "hangul": "연개",
+        "hungarian": "Yong-Gae",
+        "kiejtes": "jong-ge",
+        "movements": 49,
+        "symbolism": "Eulji Mundeok tábornok",
+        "description": "A híres Goguryeo tábornokról, aki legyőzte a kínaiakat."
+      },
+      {
+        "korean": "Ul-Ji",
+        "hangul": "을지",
+        "hungarian": "Ul-Ji",
+        "kiejtes": "ul-dzsi",
+        "movements": 42,
+        "symbolism": "Eulji Mundeok tábornok",
+        "description": "Eulji Mundeok másik neve."
+      },
+      {
+        "korean": "Moon-Moo",
+        "hangul": "문무",
+        "hungarian": "Moon-Moo",
+        "kiejtes": "mun-mu",
+        "movements": 61,
+        "symbolism": "Moon-Moo király",
+        "description": "A Silla királyról, aki egyesítette Koreát."
+      },
+      {
+        "korean": "So-San",
+        "hangul": "서산",
+        "hungarian": "So-San",
+        "kiejtes": "szo-szan",
+        "movements": 72,
+        "symbolism": "Szökevény szerzetes (Szö San)",
+        "description": "A szerzetesről, aki gerillaharcosokat szervezett a japán invázió ellen."
+      },
+      {
+        "korean": "Se-Jong",
+        "hangul": "세종",
+        "hungarian": "Se-Jong",
+        "kiejtes": "sze-dzsong",
+        "movements": 24,
+        "symbolism": "Sejong király (Hangul ábécé)",
+        "description": "A nagy királyról, aki megalkotta a koreai ábécét (Hangul). A 24 mozdulat az ábécé betűire utal."
+      },
+      {
+        "korean": "Tong-Il",
+        "hangul": "통일",
+        "hungarian": "Tong-Il",
+        "kiejtes": "tong-il",
+        "movements": 56,
+        "symbolism": "Koreai újraegyesítés",
+        "description": "A Koreai-félsziget újraegyesítésének reményét jelképezi."
+      }
+    ]
+  }
+}
