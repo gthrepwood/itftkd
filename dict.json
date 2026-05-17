@@ -2,15 +2,15 @@
   "taekwondo_terminology": {
     "numbers_1_to_10": [
       { "number": 1, "korean": "Hana", "hangul": "하나", "kiejtes": "ha-na", "hungarian": "Egy" },
-      { "number": 2, "korean": "Dul", "hangul": "둘", "kiejtes": "dul", "hungarian": "Kettő" },
+      { "number": 2, "korean": "Dool", "hangul": "둘", "kiejtes": "dul", "hungarian": "Kettő" },
       { "number": 3, "korean": "Set", "hangul": "셋", "kiejtes": "szet", "hungarian": "Három" },
       { "number": 4, "korean": "Net", "hangul": "넷", "kiejtes": "net", "hungarian": "Négy" },
-      { "number": 5, "korean": "Dasot", "hangul": "다섯", "kiejtes": "da-szot", "hungarian": "Öt" },
-      { "number": 6, "korean": "Yasot", "hangul": "여섯", "kiejtes": "ja-szot", "hungarian": "Hat" },
+      { "number": 5, "korean": "Tasut", "hangul": "다섯", "kiejtes": "da-szot", "hungarian": "Öt" },
+      { "number": 6, "korean": "Yausut", "hangul": "여섯", "kiejtes": "ja-szot", "hungarian": "Hat" },
       { "number": 7, "korean": "Ilgop", "hangul": "일곱", "kiejtes": "il-gop", "hungarian": "Hét" },
-      { "number": 8, "korean": "Yodol", "hangul": "여덟", "kiejtes": "jo-dol", "hungarian": "Nyolc" },
+      { "number": 8, "korean": "Yaudul", "hangul": "여덟", "kiejtes": "jo-dol", "hungarian": "Nyolc" },
       { "number": 9, "korean": "Ahop", "hangul": "아홉", "kiejtes": "a-hop", "hungarian": "Kilenc" },
-      { "number": 10, "korean": "Yeol", "hangul": "열", "kiejtes": "jol", "hungarian": "Tíz" }
+      { "number": 10, "korean": "Yaul", "hangul": "열", "kiejtes": "jol", "hungarian": "Tíz" }
     ],
     "commands": [
       { "korean": "Charyot", "hungarian": "Figyelem!" },
@@ -21,7 +21,9 @@
       { "korean": "Baro", "hungarian": "Vissza! / Alapállásba" },
       { "korean": "Dwiro Dora", "hungarian": "Fordulj hátra!" },
       { "korean": "Swiyo", "hungarian": "Pihenj!" },
-      { "korean": "Kaesok", "hungarian": "Folytasd!" }
+      { "korean": "Kaesok", "hungarian": "Folytasd!" },
+      { "korean": "Gukkiye daiyo kyongye", "hungarian": "Tisztelet-adás a zászlónak" },
+      { "korean": "Sabomnimke daiyo kyonge", "hungarian": "Tisztelet-adás mesternek" }
     ],
     "stances": [
       { "korean": "Moa sogi", "hungarian": "Zárt állás" },
@@ -32,8 +34,14 @@
       { "korean": "Annun sogi", "hungarian": "Lovaglóállás" },
       { "korean": "Gojung sogi", "hungarian": "Hosszú L-állás" },
       { "korean": "Kyocha sogi", "hungarian": "X-állás" },
-      { "korean": "Dwitbal sogi", "hungarian": "Macskaállás" },
-      { "korean": "Guburyo sogi", "hungarian": "Egylábas készenléti állás" }
+      { "korean": "Diwtbal sogi", "hungarian": "Macska-állás" },
+      { "korean": "Guburyo sogi", "hungarian": "Egylábas készenléti állás" },
+      { "korean": "Waebal sogi", "hangul": "왜발 서기", "hungarian": "Egylábas készenléti állás előre" },
+      { "korean": "Soo Jik sogi", "hangul": "수직 서기", "hungarian": "T-állás" },
+      { "korean": "Sasun sogi", "hangul": "사순 서기", "hungarian": "Átlós lovagló állás" },
+      { "korean": "Nachuo sogi", "hangul": "낮춰 서기", "hungarian": "Mély állás" },
+      { "korean": "Oe palya sogi", "hungarian": "Kifelé tartó állás" },
+      { "korean": "An palya sogi", "hungarian": "Befelé tartó állás" }
     ],
     "directions_and_levels": [
       { "korean": "Ap", "hungarian": "Előre / elülső" },
@@ -48,32 +56,48 @@
       { "korean": "Twimyo", "hungarian": "Ugró" },
       { "korean": "Neryo", "hungarian": "Lefelé" },
       { "korean": "Anuro", "hungarian": "Kívülről befelé" },
-      { "korean": "Bakuro", "hungarian": "Befelülről kifelé" }
+      { "korean": "Bakuro", "hungarian": "Befelülről kifelé" },
+      { "korean": "Dollimyo", "hungarian": "Pörgő" },
+      { "korean": "Nomo", "hungarian": "Akadály felett átugró" },
+      { "korean": "Io", "hungarian": "Szökkenő ugrás" }
     ],
     "general_techniques": [
       { "korean": "Makgi", "hungarian": "Hárítás / blokk" },
       { "korean": "Chirugi / Jireugi", "hungarian": "Egyenes ütés / szúrás" },
       { "korean": "Taerigi", "hungarian": "Csapás" },
       { "korean": "Chagi", "hungarian": "Rúgás" },
-      { "korean": "Milgi", "hungarian": "Tolás" }
+      { "korean": "Milgi", "hungarian": "Tolás" },
+      { "korean": "Tulgi", "hungarian": "Szúrás" }
     ],
     "hand_techniques": [
       { "korean": "Ap joomuk", "hungarian": "Elülső ököl" },
       { "korean": "Yop joomuk", "hungarian": "Oldalsó / kalapácsököl" },
+      { "korean": "Dung joomuk", "hungarian": "Ököl oldalsó felszíne" },
       { "korean": "Sonkal", "hungarian": "Kézél" },
       { "korean": "Sonbadak", "hungarian": "Tenyér" },
-      { "korean": "Palkup", "hungarian": "Könyök" },
+      { "korean": "Sonkut", "hungarian": "Ujjhegy" },
+      { "korean": "Songarak", "hungarian": "Ujj" },
+      { "korean": "Palkup", "hangul": "팔꿈", "hungarian": "Könyök" },
+      { "korean": "Bandalson", "hungarian": "Sarló-kéz" },
+      { "korean": "Sonmok", "hungarian": "Csukló" },
       { "korean": "Ap chirugi", "hungarian": "Egyenes ütés" },
       { "korean": "Dollyo chirugi", "hungarian": "Köríves ütés" }
     ],
     "blocks": [
-      { "korean": "Najunde makgi", "hungarian": "Alsó hárítás" },
-      { "korean": "Kaunde makgi", "hungarian": "Középső hárítás" },
-      { "korean": "Nopunde makgi", "hungarian": "Felső hárítás" },
-      { "korean": "Chukyo makgi", "hungarian": "Felfelé hárítás" },
-      { "korean": "Anuro makgi", "hungarian": "Kívülről befelé hárítás" },
-      { "korean": "Bakuro makgi", "hungarian": "Befelülről kifelé hárítás" },
-      { "korean": "Neryo makgi", "hungarian": "Lefelé hárítás" }
+      { "korean": "Chukyo makgi", "hungarian": "Alkarral védés felfelé" },
+      { "korean": "Pakat palmok makgi", "hungarian": "Külső alkarral védés belülről kifelé" },
+      { "korean": "Ahn palmok makgi", "hungarian": "Belső alkarral védés belülről kifelé" },
+      { "korean": "Najunde makgi", "hungarian": "Külső alkarral védés lefelé" },
+      { "korean": "Ollyo makgi", "hungarian": "Megállító hárítás" },
+      { "korean": "Momchuo makgi", "hungarian": "Védés keresztezett ököllel" },
+      { "korean": "Kyocha makgi", "hungarian": "Támasztott alkar védés" },
+      { "korean": "Doo palmok makgi", "hungarian": "Küzdőállás védő kéztartás" },
+      { "korean": "Daebi makgi", "hungarian": "Kettős alkar védés" },
+      { "korean": "Sang palmok makgi", "hungarian": "Kettős alkar védés" },
+      { "korean": "Hechyo makgi", "hungarian": "Szétfeszítő hárítás" },
+      { "korean": "Miro makgi", "hungarian": "Taszító hárítás" },
+      { "korean": "Golcho makgi", "hungarian": "Kampós hárítás" },
+      { "korean": "Dollymyo makgi", "hungarian": "Teljes kört leíró hárítás" }
     ],
     "kicks": [
       { "korean": "Ap chagi", "hungarian": "Elülső / egyenes rúgás" },
@@ -81,7 +105,14 @@
       { "korean": "Dollyo chagi", "hungarian": "Köríves rúgás" },
       { "korean": "Dwit chagi", "hungarian": "Hátsó rúgás" },
       { "korean": "Neryo chagi", "hungarian": "Fejsze / leeresztő rúgás" },
-      { "korean": "Moorup chagi", "hungarian": "Térdrúgás" }
+      { "korean": "Moorup chagi", "hungarian": "Térdrúgás" },
+      { "korean": "Anuro sewo chagi", "hungarian": "Kívülről befelé irányuló rúgás" },
+      { "korean": "Bakuro sewo chagi", "hungarian": "Belülről kifelé irányuló rúgás" },
+      { "korean": "Twimyo ap chagi", "hungarian": "Ugró egyenes rúgás" },
+      { "korean": "Nomo chagi", "hungarian": "Akadály felett át ugó rúgás" },
+      { "korean": "Io chagi", "hungarian": "Szökkenő ugrás" },
+      { "korean": "Tornado dollyo chagi", "hungarian": "Körbeforduló köríves rúgás" },
+      { "korean": "Pandae dollyo chagi", "hungarian": "Hátraforduló köríves rúgás" }
     ],
     "general_terms": [
       { "korean": "Dojang", "hungarian": "Edzőterem" },
@@ -93,7 +124,15 @@
       { "korean": "Tul", "hungarian": "Formagyakorlat" },
       { "korean": "Kihap", "hungarian": "Harci kiáltás" },
       { "korean": "Kyokpa", "hungarian": "Törés" },
-      { "korean": "Hosin sul", "hungarian": "Önvédelem" }
+      { "korean": "Hosin sul", "hungarian": "Önvédelem" },
+      { "korean": "Gukkiye daiyo kyongye", "hungarian": "Tisztelet-adás a zászlónak" },
+      { "korean": "Gukki", "hungarian": "Zászló" },
+      { "korean": "Hyo", "hungarian": "Udvariasság" },
+      { "korean": "Yong", "hungarian": "Bátorság" },
+      { "korean": "In", "hungarian": "Becsületesség" },
+      { "korean": "Na", "hungarian": "Állhatatosság" },
+      { "korean": "Gi", "hungarian": "Önuralom" },
+      { "korean": "Guk", "hungarian": "Hazafiasság" }
     ],
     "patterns": [
       {
@@ -367,6 +406,21 @@
         "symbolism": "Koreai újraegyesítés",
         "description": "Az 56 mozdulat a megosztottság éveire utal."
       }
+    ],
+    "tenets": [
+      { "korean": "Fehér öv", "hungarian": "Fehér öv", "description": "Az érintetlenség és gyermeki tisztaság szimbóluma. Utal arra, hogy a kezdő taekwondos még nem rendelkezik komoly taekwondo tudással." },
+      { "korean": "Sárga öv", "hungarian": "Sárga öv", "description": "A földet szimbolizálja, melyben az elültetett növény kicsírázik, és gyökeret ereszt. Így rögződnek a tudás alapjai is a taekwondosban." },
+      { "korean": "Zöld öv", "hungarian": "Zöld öv", "description": "A növényt, növekedését szimbolizálja. Jelzi, hogy a technikák is igazi fejlődésnek indulnak." },
+      { "korean": "Kék öv", "hungarian": "Kék öv", "description": "Az eget szimbolizálja, amely felé most már terebélyes faként tör a növény. Utal a mind magasabb taekwondo tudásra." },
+      { "korean": "Piros öv", "hungarian": "Piros öv", "description": "A tűz, a vér és a veszély szimbóluma. Emlékezteti a tanítványt, hogy most már óvatosan kell bánnia megszerzett taekwondo tudásával, de figyelmezteti ellenfelét is, hogy maradjon távol!" },
+       { "korean": "Fekete öv", "hungarian": "Fekete öv", "description": "Szimbolizálja a félelmetes és kiismerhetetlen harcmodort. Ellentéte a fehérnek. Az elmélyült és mesterfokú taekwondo tudást jelzi." }
+    ],
+    "oath": [
+      "1. A Taekwondo tanításainak mindenkor eleget teszek!",
+      "2. Tiszteletet adok mesteremnek és valamennyi társamnak!",
+      "3. Soha nem élek vissza Taekwondo tudásommal!",
+      "4. Ha kell, segítek a bajba jutottakon!",
+      "5. Minden erőmmel a békét építem!"
     ]
   }
 }
