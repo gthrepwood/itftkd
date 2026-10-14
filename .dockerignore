@@ -1,0 +1,6 @@
+.git
+.gitignore
+*.md
+!README.md
+frontend/node_modules/
+backend/taekwondo-quiz

@@ -1,0 +1,1242 @@
+[
+  {
+    "topic": "numbers",
+    "name": "Hana",
+    "number": 1,
+    "id": 1,
+    "script": "하나",
+    "pronunciation": "ha-na",
+    "translation": "Egy",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Dool",
+    "number": 2,
+    "id": 2,
+    "script": "둘",
+    "pronunciation": "dul",
+    "translation": "Kettő",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Set",
+    "number": 3,
+    "id": 3,
+    "script": "셋",
+    "pronunciation": "szet",
+    "translation": "Három",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Net",
+    "number": 4,
+    "id": 4,
+    "script": "넷",
+    "pronunciation": "net",
+    "translation": "Négy",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Tasut",
+    "number": 5,
+    "id": 5,
+    "script": "다섯",
+    "pronunciation": "da-szot",
+    "translation": "Öt",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Yausut",
+    "number": 6,
+    "id": 6,
+    "script": "여섯",
+    "pronunciation": "ja-szot",
+    "translation": "Hat",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Ilgop",
+    "number": 7,
+    "id": 7,
+    "script": "일곱",
+    "pronunciation": "il-gop",
+    "translation": "Hét",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Yaudul",
+    "number": 8,
+    "id": 8,
+    "script": "여덟",
+    "pronunciation": "jo-dol",
+    "translation": "Nyolc",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Ahop",
+    "number": 9,
+    "id": 9,
+    "script": "아홉",
+    "pronunciation": "a-hop",
+    "translation": "Kilenc",
+    "version": 1
+  },
+  {
+    "topic": "numbers",
+    "name": "Yaul",
+    "number": 10,
+    "id": 10,
+    "script": "열",
+    "pronunciation": "jol",
+    "translation": "Tíz",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Charyot",
+    "number": 11,
+    "translation": "Figyelem!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Kyong Ye",
+    "number": 12,
+    "translation": "Meghajlás / Tiszteletadás",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Junbi",
+    "number": 13,
+    "translation": "Készülj!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Sijak",
+    "number": 14,
+    "translation": "Kezdd!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Guman",
+    "number": 15,
+    "translation": "Állj! / Stop",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Baro",
+    "number": 16,
+    "translation": "Vissza! / Alapállásba",
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "phrases",
+    "name": "Dwiro Dora",
+    "number": 17,
+    "translation": "Fordulj hátra!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Swiyo",
+    "number": 18,
+    "translation": "Pihenj!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Kaesok",
+    "number": 19,
+    "translation": "Folytasd!",
+    "version": 1
+  },
+  {
+    "topic": "phrases",
+    "name": "Gukkiye daiyo kyongye",
+    "number": 20,
+    "translation": "Tisztelet-adás a zászlónak",
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "phrases",
+    "name": "Sabomnimke daiyo kyonge",
+    "number": 21,
+    "translation": "Tisztelet-adás mesternek",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Moa sogi",
+    "number": 22,
+    "translation": "Zárt állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Charyot sogi",
+    "number": 23,
+    "translation": "Figyelő állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Narani sogi / Junbi sogi",
+    "number": 24,
+    "translation": "Készenléti / párhuzamos állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Gunnun sogi",
+    "number": 25,
+    "translation": "Lépő / támadó állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Niunja sogi",
+    "number": 26,
+    "translation": "L-állás / küzdőállás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Annun sogi",
+    "number": 27,
+    "translation": "Lovaglóállás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Gojung sogi",
+    "number": 28,
+    "translation": "Hosszú L-állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Kyocha sogi",
+    "number": 29,
+    "translation": "X-állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Diwtbal sogi",
+    "number": 30,
+    "translation": "Macska-állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Guburyo sogi",
+    "number": 31,
+    "translation": "Egylábas készenléti állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Waebal sogi",
+    "number": 32,
+    "script": "왜발 서기",
+    "translation": "Egylábas készenléti állás előre",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Soo Jik sogi",
+    "number": 33,
+    "script": "수직 서기",
+    "translation": "T-állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Sasun sogi",
+    "number": 34,
+    "script": "사순 서기",
+    "translation": "Átlós lovagló állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Nachuo sogi",
+    "number": 35,
+    "script": "낮춰 서기",
+    "translation": "Mély állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "Oe palya sogi",
+    "number": 36,
+    "translation": "Kifelé tartó állás",
+    "version": 1
+  },
+  {
+    "topic": "stances",
+    "name": "An palya sogi",
+    "number": 37,
+    "translation": "Befelé tartó állás",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Ap",
+    "number": 38,
+    "translation": "Előre / elülső",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Dwit / Dwi",
+    "number": 39,
+    "translation": "Hátra / hátsó",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Yop",
+    "number": 40,
+    "translation": "Oldal / oldalsó",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Najunde",
+    "number": 41,
+    "translation": "Alsó",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Kaunde",
+    "number": 42,
+    "translation": "Középső",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Nopunde",
+    "number": 43,
+    "translation": "Felső / magas",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Baro",
+    "number": 44,
+    "translation": "Azonos oldali",
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "directions",
+    "name": "Pandae",
+    "number": 45,
+    "translation": "Ellentétes oldali",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Dollyo",
+    "number": 46,
+    "translation": "Köríves",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Twimyo",
+    "number": 47,
+    "translation": "Ugró",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Neryo",
+    "number": 48,
+    "translation": "Lefelé",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Anuro",
+    "number": 49,
+    "translation": "Kívülről befelé",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Bakuro",
+    "number": 50,
+    "translation": "Befelülről kifelé",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Dollimyo",
+    "number": 51,
+    "translation": "Pörgő",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Nomo",
+    "number": 52,
+    "translation": "Akadály felett átugró",
+    "version": 1
+  },
+  {
+    "topic": "directions",
+    "name": "Io",
+    "number": 53,
+    "translation": "Szökkenő ugrás",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Makgi",
+    "number": 54,
+    "translation": "Hárítás / blokk",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Chirugi / Jireugi",
+    "number": 55,
+    "translation": "Egyenes ütés / szúrás",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Taerigi",
+    "number": 56,
+    "translation": "Csapás",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Chagi",
+    "number": 57,
+    "translation": "Rúgás",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Milgi",
+    "number": 58,
+    "translation": "Tolás",
+    "version": 1
+  },
+  {
+    "topic": "techniques",
+    "name": "Tulgi",
+    "number": 59,
+    "translation": "Szúrás",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Ap joomuk",
+    "number": 60,
+    "translation": "Elülső ököl",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Yop joomuk",
+    "number": 61,
+    "translation": "Oldalsó / kalapácsököl",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Dung joomuk",
+    "number": 62,
+    "translation": "Ököl oldalsó felszíne",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Sonkal",
+    "number": 63,
+    "translation": "Kézél",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Sonbadak",
+    "number": 64,
+    "translation": "Tenyér",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Sonkut",
+    "number": 65,
+    "translation": "Ujjhegy",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Songarak",
+    "number": 66,
+    "translation": "Ujj",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Palkup",
+    "number": 67,
+    "script": "팔꿈",
+    "translation": "Könyök",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Bandalson",
+    "number": 68,
+    "translation": "Sarló-kéz",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Sonmok",
+    "number": 69,
+    "translation": "Csukló",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Ap chirugi",
+    "number": 70,
+    "translation": "Egyenes ütés",
+    "version": 1
+  },
+  {
+    "topic": "hand_techniques",
+    "name": "Dollyo chirugi",
+    "number": 71,
+    "translation": "Köríves ütés",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Chukyo makgi",
+    "number": 72,
+    "translation": "Alkarral védés felfelé",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Pakat palmok makgi",
+    "number": 73,
+    "translation": "Külső alkarral védés belülről kifelé",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Ahn palmok makgi",
+    "number": 74,
+    "translation": "Búblico alkarral védés belülről kifelé",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Najunde makgi",
+    "number": 75,
+    "translation": "Külső alkarral védés lefelé",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Ollyo makgi",
+    "number": 76,
+    "translation": "Megállító hárítás",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Momchuo makgi",
+    "number": 77,
+    "translation": "Védés keresztezett ököllel",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Kyocha makgi",
+    "number": 78,
+    "translation": "Támasztott alkar védés",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Doo palmok makgi",
+    "number": 79,
+    "translation": "Küzdőállás védő kéztartás",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Daebi makgi",
+    "number": 80,
+    "translation": "Kettős alkar védés",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Sang palmok makgi",
+    "number": 81,
+    "translation": "Kettős alkar védés",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Hechyo makgi",
+    "number": 82,
+    "translation": "Szétfeszítő hárítás",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Miro makgi",
+    "number": 83,
+    "translation": "Taszító hárítás",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Golcho makgi",
+    "number": 84,
+    "translation": "Kampós hárítás",
+    "version": 1
+  },
+  {
+    "topic": "blocks",
+    "name": "Dollymyo makgi",
+    "number": 85,
+    "translation": "Teljes kört leíró hárítás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Ap chagi",
+    "number": 86,
+    "translation": "Elülső / egyenes rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Yop chagi",
+    "number": 87,
+    "translation": "Oldalrúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Dollyo chagi",
+    "number": 88,
+    "translation": "Köríves rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Dwit chagi",
+    "number": 89,
+    "translation": "Hátsó rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Neryo chagi",
+    "number": 90,
+    "translation": "Fejsze / leeresztő rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Moorup chagi",
+    "number": 91,
+    "translation": "Térdrúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Anuro sewo chagi",
+    "number": 92,
+    "translation": "Kívülről befelé irányuló rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Bakuro sewo chagi",
+    "number": 93,
+    "translation": "Belülről kifelé irányuló rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Twimyo ap chagi",
+    "number": 94,
+    "translation": "Ugró egyenes rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Nomo chagi",
+    "number": 95,
+    "translation": "Akadály felett át ugó rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Io chagi",
+    "number": 96,
+    "translation": "Szökkenő ugrás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Tornado dollyo chagi",
+    "number": 97,
+    "translation": "Körbeforduló köríves rúgás",
+    "version": 1
+  },
+  {
+    "topic": "kicks",
+    "name": "Pandae dollyo chagi",
+    "number": 98,
+    "translation": "Hátraforduló köríves rúgás",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Dojang",
+    "number": 99,
+    "translation": "Edzőterem",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Dobok",
+    "number": 100,
+    "translation": "Edzőruha",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Ti",
+    "number": 101,
+    "translation": "Öv",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Sabomnim",
+    "number": 102,
+    "translation": "Mester",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Gup",
+    "number": 103,
+    "translation": "Színöv fokozat",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Dan",
+    "number": 104,
+    "translation": "Fekete öv fokozat",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Tul",
+    "number": 105,
+    "translation": "Formagyakorlat",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Kihap",
+    "number": 106,
+    "translation": "Harci kiáltás",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Kyokpa",
+    "number": 107,
+    "translation": "Törés",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Hosin sul",
+    "number": 108,
+    "translation": "Önvédelem",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Gukkiye daiyo kyongye",
+    "number": 109,
+    "translation": "Tisztelet-adás a zászlónak",
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "terms",
+    "name": "Gukki",
+    "number": 110,
+    "translation": "Zászló",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Hyo",
+    "number": 111,
+    "translation": "Udvariasság",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Yong",
+    "number": 112,
+    "translation": "Bátorság",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "In",
+    "number": 113,
+    "translation": "Becsületesség",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Na",
+    "number": 114,
+    "translation": "Állhatatosság",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Gi",
+    "number": 115,
+    "translation": "Önuralom",
+    "version": 1
+  },
+  {
+    "topic": "terms",
+    "name": "Guk",
+    "number": 116,
+    "translation": "Hazafiasság",
+    "version": 1
+  },
+  {
+    "topic": "principles",
+    "name": "Fehér öv",
+    "number": 117,
+    "version": 1,
+    "description": "Az érintetlenség és gyermeki tisztaság szimbóluma. Utal arra, hogy a kezdő taekwondos még nem rendelkezik komoly taekwondo tudással."
+  },
+  {
+    "topic": "principles",
+    "name": "Sárga öv",
+    "number": 118,
+    "version": 1,
+    "description": "A földet szimbolizálja, melyben az elültetett növény kicsírázik, és gyökeret ereszt. Így rögződnek a tudás alapjai is a taekwondosban."
+  },
+  {
+    "topic": "principles",
+    "name": "Zöld öv",
+    "number": 119,
+    "version": 1,
+    "description": "A növényt, növekedését szimbolizálja. Jelzi, hogy a technikák is igazi fejlődésnek indulnak."
+  },
+  {
+    "topic": "principles",
+    "name": "Kék öv",
+    "number": 120,
+    "version": 1,
+    "description": "Az eget szimbolizálja, amely felé most már terebélyes faként tör a növény. Utal a mind magasabb taekwondo tudásra."
+  },
+  {
+    "topic": "principles",
+    "name": "Piros öv",
+    "number": 121,
+    "version": 1,
+    "description": "A tűz, a vér és a veszély szimbóluma. Emlékezteti a tanítványt, hogy most már óvatosan kell binhárzani megszerzett taekwondo tudásával, de figyelmezteti ellenfelét is, hogy maradjon távol!"
+  },
+  {
+    "topic": "principles",
+    "name": "Fekete öv",
+    "number": 122,
+    "version": 1,
+    "description": "Szimbolizálja a félelmetes és kiismerhetetlen harcmodort. Ellentéte a fehérnek. Az elmélyült és mesterfokú taekwondo tudást jelzi."
+  },
+  {
+    "topic": "oath",
+    "name": "1. A Taekwondo tanításának mindenkor eleget teszek!",
+    "number": 123,
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "oath",
+    "name": "2. Tiszteletet adok mesteremnek és valamennyi társamnak!",
+    "number": 124,
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "oath",
+    "name": "3. Soha nem élek vissza Taekwondo tudásommal!",
+    "number": 125,
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "oath",
+    "name": "4. Ha kell, segítek a bajba jutottakon!",
+    "number": 126,
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "oath",
+    "name": "5. Minden erőmmel a békét építem!",
+    "number": 127,
+    "version": 1,
+    "dupe": true
+  },
+  {
+    "topic": "tul",
+    "name": "Chon-Ji",
+    "number": 1,
+    "id": 1,
+    "version": 1,
+    "grade": "9. gup",
+    "belt_color": "Fehér öv sárga csíkkal",
+    "diagram": "Kereszt alak (+)",
+    "steps": 19,
+    "descr": "A szó szerinti jelentése „Menny és Föld”, amely Keleten a világ teremtését és az emberi történelem kezdetét szimbolizálja. Ezért ez a legelső formagyakorlat, amelyet a kezdő taekwondós tanul. A gyakorlat két részből áll: az egyik a Mennyet, a másik a Földet jelképezi.",
+    "link": "https://taekwondo.fandom.com/wiki/Chon-Ji"
+  },
+  {
+    "topic": "tul",
+    "name": "Dan-Gun",
+    "number": 2,
+    "id": 2,
+    "version": 1,
+    "grade": "8. gup",
+    "belt_color": "Sárga öv",
+    "diagram": "Nagy „I” alak",
+    "steps": 21,
+    "descr": "A formagyakorlatot Dan-Gunról, Korea szent alapítójáról nevezték el, aki a legenda szerint időszámításunk előtt 2333-ban alapította meg a Gojoseon királyságot. Őt tekintik a koreai nemzet és kultúra ősatyjának.",
+    "link": "https://taekwondo.fandom.com/wiki/Dan-Gun"
+  },
+  {
+    "topic": "tul",
+    "name": "Do-San",
+    "number": 3,
+    "id": 3,
+    "version": 1,
+    "grade": "7. gup",
+    "belt_color": "Sárga öv zöld csíkkal",
+    "diagram": "Nyújtott „Z” alak",
+    "steps": 24,
+    "descr": "Ahn Chang-ho (1878–1938) függetlenségi aktivista írói álneve után kapta a nevét. Do-San egész életét Korea függetlenségének és a nép oktatásának szentelte a japán megszállás idején. A 24 mozdulat az ő egész életművét és áldozatvállalását szimbolizálja.",
+    "link": "https://taekwondo.fandom.com/wiki/Do-San"
+  },
+  {
+    "topic": "tul",
+    "name": "Won-Hyo",
+    "number": 4,
+    "id": 4,
+    "version": 1,
+    "grade": "6. gup",
+    "belt_color": "Zöld öv",
+    "diagram": "Nagy „I” alak",
+    "steps": 28,
+    "descr": "Won-Hyo egy híres buddhista szerzetes volt, aki a Silla-dinasztia idején, a 600-as években élt. Ő volt az, aki bevezette a buddhizmust a Silla Királyságban, és közelebb hozta a vallást a köznéphez.",
+    "link": "https://taekwondo.fandom.com/wiki/Won-Hyo"
+  },
+  {
+    "topic": "tul",
+    "name": "Yul-Gok",
+    "number": 5,
+    "id": 5,
+    "version": 1,
+    "grade": "5. gup",
+    "belt_color": "Zöld öv kék csíkkal",
+    "diagram": "Kínai „Tudós” karakter (+ alak, felső és alsó kiegészítő vonalakkal)",
+    "steps": 38,
+    "descr": "A nagyszerű filozófus és tudós, Yi I (1536–1584) írói álneve után nevezték el, akit a „Korea Konfuciusaként” is emlegettek. A 38 mozdulat az ő születési helyére, a 38. szélességi fokra utal. A diagram pedig a „tudós” szót formázza meg.",
+    "link": "https://taekwondo.fandom.com/wiki/Yul-Gok"
+  },
+  {
+    "topic": "tul",
+    "name": "Joong-Gun",
+    "number": 6,
+    "id": 6,
+    "version": 1,
+    "grade": "4. gup",
+    "belt_color": "Kék öv",
+    "diagram": "Nagy „I” alak",
+    "steps": 32,
+    "descr": "Ahn Joong-Gun hazafiról kapta a nevét, aki 1909-ben Harbinban meggyilkolta Hirobumi Itót, Korea első japán főkormányzóját, aki a félsziget annexióját vezette. A 32 mozdulat Ahn Joong-Gun életkorát jelképezi, amikor 1910-ben a Lui-Shung börtönben kivégezték.",
+    "link": "https://taekwondo.fandom.com/wiki/Joong-Gun"
+  },
+  {
+    "topic": "tul",
+    "name": "Toi-Gye",
+    "number": 7,
+    "id": 7,
+    "version": 1,
+    "grade": "3. gup",
+    "belt_color": "Kék öv piros csíkkal",
+    "diagram": "Kínai „Tudós” karakter",
+    "steps": 37,
+    "descr": "Yi Hwang (16. század) neves neokonfuciánus tudós és író írói álneve után kapta a nevét, aki a koreai culture egyik legmeghatározóbb alakja volt. A 37 mozdulat az ő születési helyére (a 37. szélességi fokra) utal. A diagram megegyezik a Yul-Gokéval, a tudós karaktert mintázva.",
+    "link": "https://taekwondo.fandom.com/wiki/Toi-Gye"
+  },
+  {
+    "topic": "tul",
+    "name": "Hwa-Rang",
+    "number": 8,
+    "id": 8,
+    "version": 1,
+    "grade": "2. gup",
+    "belt_color": "Piros öv",
+    "diagram": "Nagy „I” alak",
+    "steps": 29,
+    "descr": "A Silla-dinasztia korában működő elit ifjúsági harcoscsoportról, a Hwarang-ról („Virágzó Ifjúság”) kapta a nevét. Ez a csoport vált a Három Királyság egyesítésének hajtóerejévé a 7. században. A 29 mozdulat a 29. gyalogos hadosztályra utal, ahol Choi Hong Hi nagymester kifejlesztette a modern Taekwon-Dót.",
+    "link": "https://taekwondo.fandom.com/wiki/Hwa-Rang"
+  },
+  {
+    "topic": "tul",
+    "name": "Choong-Moo",
+    "number": 9,
+    "id": 9,
+    "version": 1,
+    "grade": "1. gup",
+    "belt_color": "Piros öv fekete csíkkal",
+    "diagram": "Nagy „I” alak",
+    "steps": 30,
+    "descr": "Yi Sun-sin admirális posztumusz tiszteletbeli neve, aki 1592-ben megalkotta a világ első páncélozott csatahajóját, a Teknőshajót (Kobukson). A gyakorlat utolsó mozdulata egy bal kezes csapás, ami az admirális tragikus és korai halálát szimbolizálja (egy csatában esett el, mielőtt láthatta volna a teljes győzelmet), hűségét jelezve a király felé.",
+    "link": "https://taekwondo.fandom.com/wiki/Choong-Moo"
+  },
+  {
+    "topic": "tul",
+    "name": "Kwang-Gae",
+    "number": 10,
+    "id": 10,
+    "version": 1,
+    "grade": "1. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kínai „Kiterjesztés/Terület” karakter (±)",
+    "steps": 39,
+    "descr": "Kwang-Gae-Toh-Wangról, a Koguryo-dinasztia híres királyáról nevezték el, aki visszafoglalta az elveszített koreai területeket, köztük Mandzsúria nagy részét. A 39 mozdulat uralkodásának első két számjegyére utal (i.sz. 391-ben lépett trónra). A diagram a dicsőséges területgyarapítást szimbolizálja.",
+    "link": "https://taekwondo.fandom.com/wiki/Kwang-Gae"
+  },
+  {
+    "topic": "tul",
+    "name": "Po-Eun",
+    "number": 11,
+    "id": 11,
+    "version": 1,
+    "grade": "1. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Egyenes vízszintes vonal (-)",
+    "steps": 36,
+    "descr": "Chong Mong-Ju (14. század) költő és tudós álneve, akinek híres verse („Nem követek más urat, még ha százszor is halok meg”) a mai napig a hűség jelképe Koreában. A diagram egyetlen egyenes vonala a király és a haza iránti megingathatatlan hűséget szimbolizálja.",
+    "link": "https://taekwondo.fandom.com/wiki/Po-Eun"
+  },
+  {
+    "topic": "tul",
+    "name": "Ge-Baek",
+    "number": 12,
+    "id": 12,
+    "version": 1,
+    "grade": "1. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Egyenes függőleges vonal (|)",
+    "steps": 44,
+    "descr": "Ge-Baekről, a Baekje-dinasztia nagyszerű tábornokáról nevezték el, aki i.sz. 660-ban egy maroknyi, 5000 fős sereggel védte a hazáját az 50 000 fős Silla-Tang szövetséges erők ellen. A diagram a szigorú és megalkuvást nem tűrő katonai fegyelmet ábrázolja.",
+    "link": "https://taekwondo.fandom.com/wiki/Ge-Baek"
+  },
+  {
+    "topic": "tul",
+    "name": "Eui-Am",
+    "number": 13,
+    "id": 13,
+    "version": 1,
+    "grade": "2. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Egyenes függőleges vonal (|)",
+    "steps": 45,
+    "descr": "Son Byong Hi írói álneve, aki az 1919. március 1-jei koreai függetlenségi mozgalom vezetője volt. A 45 mozdulat arra az életkorra utal, amikor megváltoztatta a Chondoizmus vallási nevét Donghak-ról Chondo-kyo-ra 1905-ben.",
+    "link": "https://taekwondo.fandom.com/wiki/Eui-Am"
+  },
+  {
+    "topic": "tul",
+    "name": "Choong-Jang",
+    "number": 14,
+    "id": 14,
+    "version": 1,
+    "grade": "2. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "„T” alak",
+    "steps": 52,
+    "descr": "Kim Duk-Ryang tábornok álneve, aki a 14. században, az Imjin-háború idején harcolt a japán megszállók ellen. A gyakorlat végén látható bal kezes támadások arra utalnak, hogy a tábornokot fiatalon, mindössze 29 évesen hamis vádak alapján börtönbe zárták és kivégezték, mielőtt kibontakoztathatta volna teljes katonai potenciálját.",
+    "link": "https://taekwondo.fandom.com/wiki/Choong-Jang"
+  },
+  {
+    "topic": "tul",
+    "name": "Juche",
+    "number": 15,
+    "id": 15,
+    "version": 1,
+    "grade": "2. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Hegyet formázó alakzat (Λ)",
+    "steps": 45,
+    "descr": "A név jelentése „önellátás”, „függetlenség”, amely arra a filozófiára utal, hogy az ember saját sorsának ura. Eredetileg a Ko-Dang nevű formagyakorlat helyére került be, kifejezve a koreai nép büszkeségét és önálló identitását.",
+    "link": "https://taekwondo.fandom.com/wiki/Juche"
+  },
+  {
+    "topic": "tul",
+    "name": "Sam-Il",
+    "number": 16,
+    "id": 16,
+    "version": 1,
+    "grade": "3. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kereszt alak (+)",
+    "steps": 33,
+    "descr": "Az 1919. március 1-jén kitört történelmi függetlenségi mozgalomra utal (Sam-Il szó szerint 3-1, azaz március 1.). A 33 mozdulat azt a 33 koreai hazafit és vallási vezetőt szimbolizálja, akik megfogalmazták és aláírták a koreai függetlenségi nyilatkozatot.",
+    "link": "https://taekwondo.fandom.com/wiki/Sam-Il"
+  },
+  {
+    "topic": "tul",
+    "name": "Yoo-Sin",
+    "number": 17,
+    "id": 17,
+    "version": 1,
+    "grade": "3. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Fordított „I” vagy fektetett „H” alak",
+    "steps": 68,
+    "descr": "Kim Yoo-Sin tábornokról, a Silla-dinasztia főparancsnokáról nevezték el. A 68 mozdulat az i.sz. 668-as évszámra utal, amikor sikeresen egyesítette a Három Királyságot (Silla, Koguryo, Baekje).",
+    "link": "https://taekwondo.fandom.com/wiki/Yoo-Sin"
+  },
+  {
+    "topic": "tul",
+    "name": "Choi-Yong",
+    "number": 18,
+    "id": 18,
+    "version": 1,
+    "grade": "3. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kereszt alak (+)",
+    "steps": 46,
+    "descr": "Choi Yong tábornokról, a Koryo-dinasztia fővezéréről és miniszterelnökéről nevezték el, aki rendkívüli hűségéről és egyszerűségéről volt ismert. Fiatalabb tiszttársa, Yi Seong-gye (a későbbi Csoszon-dinasztia alapítója) végeztette ki egy politikai puccs során.",
+    "link": "https://taekwondo.fandom.com/wiki/Choi-Yong"
+  },
+  {
+    "topic": "tul",
+    "name": "Yon-Gae",
+    "number": 19,
+    "id": 19,
+    "version": 1,
+    "grade": "4. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Fordított „T” alak",
+    "steps": 49,
+    "descr": "Yon Gae Somunról, a Koguryo-dinasztia híres és agresszív tábornokáról kapta a nevét, aki sikeresen vert vissza több mint 300 000 fős inváziós sereget a kínai Tang-dinasztia ellenében. A 49 mozdulat az i.sz. 649-es évre utal, amikor a Tang uralkodót visszavonulásra kényszerítette az Ansi erőd ostrománál.",
+    "link": "https://taekwondo.fandom.com/wiki/Yon-Gae"
+  },
+  {
+    "topic": "tul",
+    "name": "Ul-Ji",
+    "number": 20,
+    "id": 20,
+    "version": 1,
+    "grade": "4. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Egyedi horgas/görbe vonal",
+    "steps": 42,
+    "descr": "Ul-Ji Mundeok tábornokról kapta a nevét, aki i.sz. 612-ben megvédte Koguryo-t a több mint egymilliós kínai Sui inváziós sereg ellen. Ul-Ji zseniális gerillataktikával a Salsu-folyónál szinte teljesen megsemmisítette az ellenséget. A 42 mozdulat a szerkesztő (Choi Hong Hi) életkorára utal a gyakorlat megalkotásakor.",
+    "link": "https://taekwondo.fandom.com/wiki/Ul-Ji"
+  },
+  {
+    "topic": "tul",
+    "name": "Moon-Moo",
+    "number": 21,
+    "id": 21,
+    "version": 1,
+    "grade": "4. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kínai „Írás/Irodalom” karakter",
+    "steps": 61,
+    "descr": "Moon-Moo király tiszteletére nevezték el, aki befejezte a Három Királyság egyesítését i.sz. 661-ben. Végakarata szerint a Keleti-tengerben temették el egy sziklasírba, hogy „Sárkányként” védje meg Koreát a tenger felől érkező japán kalózoktól és hódítóktól.",
+    "link": "https://taekwondo.fandom.com/wiki/Moon-Moo"
+  },
+  {
+    "topic": "tul",
+    "name": "So-San",
+    "number": 22,
+    "id": 22,
+    "version": 1,
+    "grade": "5. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kínai „Tudós” karakter",
+    "steps": 72,
+    "descr": "Choi Hyeon-Ung (1520–1604) buddhista szerzetes álneve, aki az Imjin-háború idején szerzetesekből álló népfölkelő sereget szervezett a japán megszállók visszaverésére. A 72 mozdulat az életkorára utal, amikor megszervezte ezt a különleges hadtestet unokaöccsével közösen.",
+    "link": "https://taekwondo.fandom.com/wiki/So-San"
+  },
+  {
+    "topic": "tul",
+    "name": "Se-Jong",
+    "number": 23,
+    "id": 23,
+    "version": 1,
+    "grade": "5. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Kínai „Király” karakter",
+    "steps": 24,
+    "descr": "Se-Jong királyról, a koreai történelem legnagyobb uralkodójáról nevezték el, aki 1443-ban feltalálta a koreai ábécét, a Hangul-t. A 24 mozdulat a koreai ábécé 24 betűjét jelképezi, a diagram pedig a „Király” szót formázza meg.",
+    "link": "https://taekwondo.fandom.com/wiki/Se-Jong"
+  },
+  {
+    "topic": "tul",
+    "name": "Tong-Il",
+    "number": 24,
+    "id": 24,
+    "version": 1,
+    "grade": "6. dan",
+    "belt_color": "Fekete öv",
+    "diagram": "Egyenes függőleges vonal (|)",
+    "steps": 56,
+    "descr": "A név jelentése szó szerint „Egyesülés”. Ez az ITF rendszer legutolsó formagyakorlata, amelyet Choi Hong Hi nagymester azért alkotott meg, hogy kifejezze a kettészakított Korea (Észak és Dél) békés, demokratikus újraegyesítésére irányuló nemzeti vágyat. A diagram egyetlen egyenes vonala az egységes, oszthatatlan koreai népet jelképezi.",
+    "link": "https://taekwondo.fandom.com/wiki/Tong-Il"
+  }
+]

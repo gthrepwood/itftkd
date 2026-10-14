@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  taekwondo-quiz:
+    build: .
+    container_name: taekwondo-quiz
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
